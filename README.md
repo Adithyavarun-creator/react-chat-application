@@ -1,5 +1,6 @@
-DUMMY USERS
-username - Hans Zimmer 
+ USERS FOR TESTING
+ 
+username1 - Hans Zimmer 
 password - 123123
 
 username2 - zack zimmer
